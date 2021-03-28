@@ -19,3 +19,5 @@
 
 -   Movie Deatils
 -   Similar movies
+
+[Live]: (https://hulu-clone-app.netlify.app/)
